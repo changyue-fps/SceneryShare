@@ -2,7 +2,7 @@ import React from "react";
 
 import Card from "../../shared/components/UIElements/Card";
 import PlaceItem from "./PlaceItem";
-import PlaceItem from "./PlaceItem";
+
 import "./PlaceList.css";
 
 const PlaceList = (props) => {
